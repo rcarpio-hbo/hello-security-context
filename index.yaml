@@ -3,7 +3,17 @@ entries:
   hello-security-context:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-07-19T13:01:03.646417+02:00"
+    created: "2023-07-19T13:23:23.706948+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 187307136b05320a537e2d5cea525fa2f40a720f66a5d1d575688b232f0adc49
+    name: hello-security-context
+    type: application
+    urls:
+    - hello-security-context-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-19T13:23:23.706673+02:00"
     description: A Helm chart for Kubernetes
     digest: 39b97ea770076ceeb9eea5fe08b727076cbd618be831e58e99eb944feddcb2a2
     name: hello-security-context
@@ -11,4 +21,4 @@ entries:
     urls:
     - hello-security-context-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-19T13:01:03.646+02:00"
+generated: "2023-07-19T13:23:23.705614+02:00"
